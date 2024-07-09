@@ -1,0 +1,44 @@
+<configs>
+
+	<append xpath="recipes">
+		
+		<recipe name="cntBottleDewCollector" count="1" craft_time="30" craft_area="chemistryStation" tags="chemStationCrafting">
+			<ingredient name="resourceScrapPolymers" count="25"/>
+			<ingredient name="resourceOilShale" count="12"/>
+		</recipe>
+
+		<recipe name="cntToiletDewCollector" count="1" craft_time="30" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="40"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceMechanicalParts" count="5"/>
+		</recipe>
+		
+		<recipe name="cntToilet03DewCollector" count="1" craft_time="30" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="40"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceMechanicalParts" count="5"/>
+		</recipe>
+
+		<recipe name="cntPBarrelDewCollector" count="1" craft_time="30" craft_area="chemistryStation" tags="chemStationCrafting">
+			<ingredient name="resourceScrapPolymers" count="50"/>
+			<ingredient name="resourceOilShale" count="24"/>
+		</recipe>
+
+		<recipe name="cntPQBarrelDewCollector" count="1" craft_time="30" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="cntPBarrelDewCollector" count="4"/>
+			<ingredient name="resourceWood" count="10"/>
+		</recipe>
+		
+		<recipe name="cntWBarrelDewCollector" count="1" craft_time="30" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="20"/>
+			<ingredient name="resourceForgedIron" count="5"/>
+		</recipe>
+		
+		<recipe name="capChimneyLargeSmoke" count="1" craft_time="30" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="5"/>
+		</recipe>
+
+	</append>
+	
+</configs>

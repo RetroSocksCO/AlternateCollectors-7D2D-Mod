@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<Name value="AlternateCollectors" />
+	<DisplayName value="AlternateCollectors" />
+	<Description value="Adds alternate blocks for the Dew Collector." />
+	<Author value="therealburnstein" />
+	<Version value="1.0" />
+	<Website value="https://www.retrosocks.co/" />
+	<SkipWithAntiCheat value="false" />
+</xml>
+
+
