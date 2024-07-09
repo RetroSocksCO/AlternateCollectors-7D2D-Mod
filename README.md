@@ -1,6 +1,7 @@
 # AlternateCollectors
 
-Client, Server, and EAC-friendly mod.
+A 7 Days to Die V1.0 Experimental Mod.
+Client, Server, and EAC-friendly Mod.
 All resources used are available in the vanilla client and retain core values.
 
 Adds six craftable variants of the Dew Collector:
