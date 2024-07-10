@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
 <xml>
 	<Name value="AlternateCollectors" />
 	<DisplayName value="AlternateCollectors" />
@@ -9,5 +8,3 @@
 	<Website value="https://www.retrosocks.co/" />
 	<SkipWithAntiCheat value="false" />
 </xml>
-
-
