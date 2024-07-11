@@ -1,8 +1,8 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english
-
 cntBottleDewCollector,blocks,Workstation,,,Water Bottle,,
 cntToiletDewCollector,blocks,Workstation,,,Residential Toilet,,
 cntToilet03DewCollector,blocks,Workstation,,,Commercial Toilet,,
 cntPBarrelDewCollector,blocks,Workstation,,,Plastic Barrel,,
 cntPQBarrelDewCollector,blocks,Workstation,,,Plastic Barrels Pallet,,
 cntWBarrelDewCollector,blocks,Workstation,,,Wooden Barrel,,
+dewCollectorAltDesc,blocks,block,,,Collects dew over time. Unfiltered water should be boiled in a cooking pot before use.,,
