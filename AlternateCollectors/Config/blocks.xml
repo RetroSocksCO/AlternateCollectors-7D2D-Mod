@@ -10,7 +10,7 @@
 			<property name="Stacknumber" value="1"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="cntWaterCoolerBottle"/>
-			<property name="DescriptionKey" value="dewCollectorDesc"/>
+			<property name="DescriptionKey" value="dewCollectorAltDesc"/>
 			<property name="Material" value="MFuelBarrelPolymer"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="@:Entities/LootContainers/water_cooler_bottlePrefab.prefab"/>
@@ -63,7 +63,7 @@
 			<property name="Stacknumber" value="1"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="cntToilet01"/>
-			<property name="DescriptionKey" value="dewCollectorDesc"/>
+			<property name="DescriptionKey" value="dewCollectorAltDesc"/>
 			<property name="Material" value="MstoneFurniture"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="@:Entities/LootContainers/toiletCommercial01Prefab.prefab"/>
@@ -125,7 +125,7 @@
 			<property name="Stacknumber" value="1"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="cntBarrelPlasticSingle00"/>
-			<property name="DescriptionKey" value="dewCollectorDesc"/>
+			<property name="DescriptionKey" value="dewCollectorAltDesc"/>
 			<property name="Material" value="MFuelBarrelPolymer"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="Entities/Industrial/barrelPlasticPrefab"/>
@@ -185,7 +185,7 @@
 			<property name="Stacknumber" value="1"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="CustomIcon" value="wineBarrelPlain"/>
-			<property name="DescriptionKey" value="dewCollectorDesc"/>
+			<property name="DescriptionKey" value="dewCollectorAltDesc"/>
 			<property name="Material" value="Mwood_regular"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="Entities/Decor/BarrelPrefab"/>
